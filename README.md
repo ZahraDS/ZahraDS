@@ -1,3 +1,1 @@
--  Hi, I’m Zahra.
--  I'm doing Bachelors in Data Science from NUST(National University of Science & technology).
--  I’m currently learning c++, java script, html, css. 
+
